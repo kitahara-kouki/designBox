@@ -1,0 +1,12 @@
+[
+    {
+        "title": "ボックスデザイン",
+        "html": "<div>ボックスデザイン</div>",
+        "css": ".cols {}"
+    },
+    {
+        "title": "ボックスデザイン２",
+        "html": "<div class='cols'><div>ボックス</div></div>",
+        "css": ".box {background: #CCC;}"
+    }
+]
